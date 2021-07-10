@@ -4,11 +4,13 @@ This is a Linux shell with functionalities like piping,redirection and all basic
 System commands are executed both in Foreground and Background Process.
 
 ## How to run
+```
 1.Run the make command.
 
 2.Run ./varun to start the shell.
 
 3.Enter quit to exit the shell.
+```
 
 ## Code Files
 1.The names of the file indicate their functionality.
@@ -16,6 +18,7 @@ System commands are executed both in Foreground and Background Process.
 2.Background and foregroung process are are done in main.c and bag.c files.
 
 ## Built in Commands
+```
 1.echo
 
 2.pwd
@@ -41,7 +44,7 @@ System commands are executed both in Foreground and Background Process.
 12.Overkill
   
 13.CTRL + Z
-
+```
 ## Basic Information:
 1.All files headers are included in header files..
   
